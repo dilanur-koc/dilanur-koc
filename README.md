@@ -10,6 +10,10 @@
   <img src="lisa-blue-hair-3840x2160-27314.jpg" alt="Lisa" width="100%" />
 </p>
 
-#### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/dila-nur-ko%C3%A7-4399053a9)
+#### Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/dila-nur-ko%C3%A7-4399053a9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00f0ff?style=for-the-badge&logo=linkedin&logoColor=00f0ff&labelColor=000000" height="35" alt="LinkedIn" />
+  </a>
+</p>
