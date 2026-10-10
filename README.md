@@ -12,4 +12,4 @@
 
 #### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00f0ff?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0d1117)](https://www.linkedin.com/in/dila-nur-ko%C3%A7-4399053a9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/dila-nur-ko%C3%A7-4399053a9)
