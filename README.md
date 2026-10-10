@@ -18,14 +18,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilanur-koc&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilanur-koc&layout=compact&theme=tokyonight" />
-</p>
 
 ![Dila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilanur-koc&show_icons=true&theme=tokyonight)
 
