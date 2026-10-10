@@ -18,18 +18,14 @@
   </a>
 </p>
 
-<table>
-  <tr>
-    <td valign="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=dilanur-koc&show_icons=true&theme=tokyonight" />
-    </td>
-    <td valign="center" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="60" /><br/><br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="50" /><br/><br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="70" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dilanur-koc&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilanur-koc&layout=compact&theme=tokyonight" />
+</p>
 
 ![Dila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilanur-koc&show_icons=true&theme=tokyonight)
 
