@@ -18,12 +18,18 @@
   </a>
 </p>
 
-<!-- hareketli parıltı ve yıldız animasyonları -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Yyd2hxZnI4MDh6NDB6NmZ6NXg4bnh4Nng4NXg4bnh4Nng4bnh4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7qE1YN7aBOFPRw8E/giphy.gif" width="120" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Yyd2hxZnI4MDh6NDB6NmZ6NXg4bnh4Nng4NXg4bnh4Nng4bnh4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7qE1YN7aBOFPRw8E/giphy.gif" width="80" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Yyd2hxZnI4MDh6NDB6NmZ6NXg4bnh4Nng4NXg4bnh4Nng4bnh4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100" />
-</p>
+<table>
+  <tr>
+    <td valign="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=dilanur-koc&show_icons=true&theme=tokyonight" />
+    </td>
+    <td valign="center" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="60" /><br/><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="50" /><br/><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="70" />
+    </td>
+  </tr>
+</table>
 
 ![Dila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilanur-koc&show_icons=true&theme=tokyonight)
 
