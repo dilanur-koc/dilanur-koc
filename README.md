@@ -11,8 +11,5 @@
 </p>
 
 #### Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/dila-nur-koç-4399053a9" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-00f0ff?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0d1117" height="30" alt="LinkedIn" />
-  </a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00f0ff?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0d1117)](https://www.linkedin.com/in/dila-nur-ko%C3%A7-4399053a9)
