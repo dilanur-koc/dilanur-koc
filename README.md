@@ -17,3 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-00f0ff?style=for-the-badge&logo=linkedin&logoColor=00f0ff&labelColor=000000" height="35" alt="LinkedIn" />
   </a>
 </p>
+
+![Dila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilanur-koc&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilanur-koc&layout=compact&theme=tokyonight)
