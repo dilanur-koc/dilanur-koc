@@ -18,6 +18,13 @@
   </a>
 </p>
 
+<!-- hareketli parıltı ve yıldız animasyonları -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Yyd2hxZnI4MDh6NDB6NmZ6NXg4bnh4Nng4NXg4bnh4Nng4bnh4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7qE1YN7aBOFPRw8E/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Yyd2hxZnI4MDh6NDB6NmZ6NXg4bnh4Nng4NXg4bnh4Nng4bnh4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7qE1YN7aBOFPRw8E/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Yyd2hxZnI4MDh6NDB6NmZ6NXg4bnh4Nng4NXg4bnh4Nng4bnh4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100" />
+</p>
+
 ![Dila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilanur-koc&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilanur-koc&layout=compact&theme=tokyonight)
