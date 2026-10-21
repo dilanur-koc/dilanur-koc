@@ -1,10 +1,10 @@
-<h2>Dila Nur Koç</h2>
+<h1>Dila Nur Koç</h1>
 
 > Computer Programming Student & Backend Developer
 
 - 💻 Backend Development (Java, C#, JavaScript)
 - ⚙️ Algorithms & Object-Oriented Programming (OOP)
-- 🗄️ Relational Databases & SQL
+- 🗄️ Relational Databases & SQL 
 
 <p align="center">
   <img src="lisa-blue-hair-3840x2160-27314.jpg" alt="Lisa" width="100%" />
