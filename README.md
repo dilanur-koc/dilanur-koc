@@ -1,4 +1,4 @@
-<h1>Dila Nur Koç</h1>
+<h2>Dila Nur Koç</h2>
 
 > Computer Programming Student & Backend Developer
 
